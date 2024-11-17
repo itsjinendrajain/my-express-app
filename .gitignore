@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+logs/**/*.log
+
+# Environment files
+.env
+
+# TypeScript
+*.tsbuildinfo
+
+# Build output
+dist/
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.bak
+*.tmp
+*.lock
